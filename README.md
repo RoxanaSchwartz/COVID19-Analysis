@@ -31,7 +31,7 @@ This portfolio project analyzes global COVID-19 data from January 2020 to Septem
 
 ## Files
 - [Covid19_cleaned_data.csv](Covid19_cleaned_data.csv): Cleaned dataset (CSV)
-- [covid19_analysis.sql](covid19_analysis.sql): SQL queries for analysis
+- [covid19_analysis_workflow.sql](covid19_analysis_workflow.sql): SQL queries for analysis (SQL)
 - [docs/Covid19_LookerReport.pdf](docs/Covid19_LookerReport.pdf): Global report (PDF)
 - [docs/Covid19_LookerReport_Filter.pdf](docs/Covid19_LookerReport_Filter.pdf): Filtered report (PDF)
 - [docs/Covid19_LookerReport.PNG](docs/Covid19_LookerReport.PNG): Global report screenshot (PNG)
